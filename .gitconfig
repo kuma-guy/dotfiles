@@ -1,0 +1,15 @@
+[user]
+  name = Shingo Kumagai
+  email = shingo4092@gmail.com
+[core]
+  editor = vi
+  excludesfile = ~/.gitignore
+[color]
+  branch = auto
+  diff = auto
+  interactive = auto
+  status = auto
+[web]
+  browser = google-chrome
+[credential]
+  helper = osxkeychain
